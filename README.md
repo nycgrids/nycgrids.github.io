@@ -1,1 +1,1 @@
-# nycgrids.github.io
+Website for GRiDS: An NYC-based group for graduate researchers in developmental science
